@@ -1170,6 +1170,11 @@ body.no-scroll {
     margin: 3rem 0;
 }
 
+.persons-slider {
+    position: relative;
+    overflow: hidden;
+}
+
 .persons__slide {
     display: flex;
     flex-direction: column;
@@ -1690,6 +1695,8 @@ body.no-scroll {
 
 .reviews-slider {
     margin-top: 3rem;
+    position: relative;
+    overflow: hidden;
 }
 
 .reviews-slide {
