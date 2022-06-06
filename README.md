@@ -2,7 +2,7 @@
 
 Вёрстка страницы [Animators](https://nikitasapego.github.io/Animators/)
 
-#html #css #Javascript
+#html #css #javascript
 
  - Имеется адаптив до 320px;
  - Все файлы структурированы по папкам;
